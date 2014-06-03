@@ -24,6 +24,6 @@ for (var num = 1; num <= nth; num++) {
 
 }
 
-	document.getElementById("fizzbuzz").innerHTML += sequences;
+	document.getElementById("fizzbuzz").innerHTML += sequence;
 
 });
